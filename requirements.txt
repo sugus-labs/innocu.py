@@ -1,0 +1,6 @@
+requests
+#requests-oauthlib
+#filetype
+pandas==1.4.0
+numpy==1.22.0
+matplotlib==3.5.1
